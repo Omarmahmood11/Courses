@@ -14,11 +14,19 @@ Throughout the course, I learn the key concepts and techniques related to CNNs, 
 
 By completing this course, I equip myself with the skills and knowledge necessary to tackle complex computer vision problems and contribute to the exciting field of artificial intelligence.
 
+### Natural Language Processing in TensorFlow by Deeplearning.ai
+
+This course has allowed me to delve deeper into the world of artificial intelligence by introducing me to Natural Language Processing (NLP) using the TensorFlow framework. NLP is a key component in creating systems that understand, interpret, and generate human language in a valuable way.
+
+During the course, I acquire knowledge about the key concepts and techniques in NLP, including text representation, sequence models, recurrent neural networks (RNNs), long short-term memory (LSTM) units, and the transformer model. I apply this knowledge to implement NLP tasks such as text classification, named entity recognition, machine translation, and question answering, using TensorFlow.
+
+Upon completion of this course, I have gained the competencies to develop sophisticated NLP applications and contribute to advancements in the AI domain.
+
 ## Connect with Me
 
 If you share a passion for lifelong learning and want to discuss courses, share recommendations, or exchange insights, let's connect!
 
-- LinkedIn: [Omar Mahmood](linkedin.com/in/omar-mahmood-b5032317)
+- LinkedIn: [Omar Mahmood](https://linkedin.com/in/omar-mahmood-b5032317)
 - Twitter: [@0marmahmud](https://twitter.com/0marmahmud)
 - Email: omarmahmood11@gmail.com
 
@@ -27,4 +35,3 @@ If you share a passion for lifelong learning and want to discuss courses, share 
 This repository is licensed under the [MIT License](LICENSE). Feel free to explore the courses, learn from them, and even contribute by suggesting new courses or providing feedback. Let's continue our quest for knowledge together!
 
 *"Expanding horizons, one course at a time."*
-
